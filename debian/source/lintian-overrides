@@ -1,0 +1,5 @@
+python-poetry-plugin-export source: file-without-copyright-information
+python-poetry-plugin-export source: no-debian-changes
+python-poetry-plugin-export source: source-contains-prebuilt-windows-binary
+python-poetry-plugin-export source: source-is-missing
+python-poetry-plugin-export source: source-package-encodes-python-version
