@@ -26,9 +26,7 @@ pip-log.txt
 /test.py
 /test_*.*
 
-/setup.cfg
 MANIFEST.in
-/setup.py
 /docs/site/*
 /tests/fixtures/simple_project/setup.py
 .mypy_cache
@@ -37,3 +35,5 @@ MANIFEST.in
 /releases/*
 pip-wheel-metadata
 /poetry.toml
+
+.pybuild/

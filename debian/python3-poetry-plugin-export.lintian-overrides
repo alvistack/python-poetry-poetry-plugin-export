@@ -1,0 +1,4 @@
+python3-poetry-plugin-export: copyright-without-copyright-notice
+python3-poetry-plugin-export: initial-upload-closes-no-bugs
+python3-poetry-plugin-export: no-manual-page
+python3-poetry-plugin-export: zero-byte-file-in-doc-directory
